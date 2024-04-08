@@ -7,4 +7,4 @@ In this exercise, we are predicting if cryptocurrencies are impacted by 24-hour 
 All the Python script leveraged in this code is being utilized from resources learned in class and sklearn documentation that can be found here:
 
 - [K-Means Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
-- [PCA Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
+- [PCA Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
